@@ -6,7 +6,7 @@ Arkanoid game developed in C++ and SFML. Rebuilt in August 2019 with SFML 2.5.1.
 
 Classic Arkanoid game where the player controls a pallet at the bottom of the screen and the goal is to destroy all the blocks in the upper screen without letting the ball pass by the player.
 
-[]!(arkanoid.gif)
+![](arkanoid.gif)
 
 ## Usage
 
